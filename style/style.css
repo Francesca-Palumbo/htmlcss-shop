@@ -5,7 +5,7 @@
 }
 
 main {
-    background-image: url('img/saldi.jpg');
+    background-image: url(saldi.jpg);
     height: 100vh;
     position: relative;
 }
